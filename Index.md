@@ -1,7 +1,4 @@
-<!-- https://www.cs.cornell.edu/home/kleinber/ -->
-
 <html>
-    <!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
