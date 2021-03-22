@@ -1,2 +1,2 @@
-# oliviaz98.github.io
-Olivia's personal website
+# personal website
+Place to showcase my personal website
